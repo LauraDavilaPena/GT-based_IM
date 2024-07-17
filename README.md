@@ -13,7 +13,7 @@ Each data file contained in this repository is explained below:
 # References
 [1] Davila-Pena, L., Saavedra-Nieves, A., and Casas-Méndez, B. (2024). On the influence of dependent features in classification problems: a game-theoretical perspective. _Preprint (link arxiv)_
 
-[2] Maindonald, J. H. and Braun W. J. (2021). Data analysis and graphics using R. An Example-Based Approach, 3 edition. Cambridge University Press, Cambridge. _The DAAG package was created to support this text. [https://CRAN.R-project.org/package=DAAG](https://cran.r-project.org/web/packages/DAAG/index.html) [R package version 1.25.6.]
+[2] Maindonald, J. H. and Braun W. J. (2021). Data analysis and graphics using R. An Example-Based Approach, 3 edition. Cambridge University Press, Cambridge. _The DAAG package was created to support this text. [https://CRAN.R-project.org/package=DAAG](https://cran.r-project.org/web/packages/DAAG/index.html) [R package version 1.25.6.]_
 
 [3] Item-item collaborative filtering with binary or unary data, 
 [https://medium.com/radon-dev/item-item-collaborative-filtering-with-binary-or-unary-data-e8f0b465b2c3](https://medium.com/radon-dev/item-item-collaborative-filtering-with-binary-or-unary-data-e8f0b465b2c3). Accessed: 17 July 2024
