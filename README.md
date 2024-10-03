@@ -11,7 +11,8 @@ Each data file contained in this repository is explained below:
 
 
 # References
-[1] Davila-Pena, L., Saavedra-Nieves, A., and Casas-Méndez, B. (2024). On the influence of dependent features in classification problems: a game-theoretical perspective. _Preprint (link arxiv)_
+[1] Davila-Pena, L., Saavedra-Nieves, A., and Casas-Méndez, B. (2024). On the influence of dependent features in classification problems: a game-theoretical perspective. _arXiv preprint_. [https://doi.org/10.48550/arXiv.2408.02481](https://doi.org/10.48550/arXiv.2408.02481)
+
 
 [2] Maindonald, J. H. and Braun W. J. (2021). Data analysis and graphics using R. An example-based approach (3rd edition). Cambridge University Press, Cambridge. _The DAAG package was created to support this text. [https://CRAN.R-project.org/package=DAAG](https://cran.r-project.org/web/packages/DAAG/index.html) [R package version 1.25.6.]_
 
